@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SocialDapp</string>
+    <string name="credentials">Credentials</string>
+    <string name="credential_name">CredentialName</string>
+    <string name="credential_key">CredentialKey</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CredentialID">CredentialID</string>
+    <string-array name="prices_array">
+        <item>5 Tokens</item>
+        <item>10 Tokens</item>
+        <item>15 Tokens</item>
+        <item>20 Tokens</item>
+    </string-array>
+</resources>
